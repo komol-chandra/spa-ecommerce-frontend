@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-sm-6 col-xl-3">
           <div class="footer-widget">
-            <a class="footer-logo" href="#"><img src="./assets/images/logo.png" alt="logo"/></a>
+            <a class="footer-logo" href="#"><img src="@/assets/images/logo.png" alt="logo"/></a>
             <p class="footer-desc">
               Adipisci asperiores ipsum ipsa repellat consequatur repudiandae
               quisquam assumenda dolor perspiciatis sit ipsum dolor amet.
@@ -69,8 +69,8 @@
               exercitationem!
             </p>
             <div class="footer-app">
-              <a href="#"><img src="./assets/images/google-store.png" alt="google"/></a><a href="#"><img
-                src="./assets/images/app-store.png" alt="app"/></a>
+              <a href="#"><img src="@/assets/images/google-store.png" alt="google"/></a><a href="#"><img
+                src="@/assets/images/app-store.png" alt="app"/></a>
             </div>
           </div>
         </div>
@@ -83,10 +83,10 @@
               <a target="_blank" href="https://w3coders.net">W3 Coders</a>
             </p>
             <div class="footer-card">
-              <a href="#"><img src="./assets/images/payment/jpg/01.jpg" alt="payment"/></a><a href="#"><img
-                src="./assets/images/payment/jpg/02.jpg" alt="payment"/></a><a href="#"><img src="./assets/images/payment/jpg/03.jpg"
-                                                                                             alt="payment"/></a><a
-                href="#"><img src="./assets/images/payment/jpg/04.jpg" alt="payment"/></a>
+              <a href="#"><img src="@/assets/images/payment/jpg/01.jpg" alt="payment"/></a>
+              <a href="#"><img src="@/assets/images/payment/jpg/02.jpg" alt="payment"/></a>
+              <a href="#"><img src="@/assets/images/payment/jpg/03.jpg" alt="payment"/></a>
+              <a href="#"><img src="@/assets/images/payment/jpg/04.jpg" alt="payment"/></a>
             </div>
           </div>
         </div>
